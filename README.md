@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Native development: accessing component state or props before the component has mounted. The `Bug.js` file shows the erroneous code, while `BugSolution.js` provides the corrected version.  The error often manifests as `undefined` values or crashes, especially when dealing with asynchronous operations.
